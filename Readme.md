@@ -1,4 +1,4 @@
-# title 
+# label input animation
 
 dibuat dengan menggunakan html dan css.
 
