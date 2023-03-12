@@ -29,4 +29,4 @@ git clone https://github.com/candradwicahyo/label-input-animation.git
 
 ![preview](https://github.com/candradwicahyo/label-input-animation/blob/master/image.jpg)
 
-[tekan link ini](https://candradwicahyo.github.io/label-input-animation)
+[tekan link ini](https://candradwicahyo.github.io/label-input-animation) untuk mencoba demo
